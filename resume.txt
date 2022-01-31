@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+</head>
+<style>
+    body{
+        background-image: url("cod2.png");
+        background-size: 1000px;
+        background-attachment: fixed
+        
+       
+    }
+    
+   
+</style>
+<body>
+   
+    <p> Gourav Barod <br>
+       +91 9407444013 <br> 
+        <a href="http://gouravbarod11@gmail.com/">gouravbarod11@gmail.com</a>
+        <hr>
+        </p> 
+        <p  style=" border-style:outset;">OBJECTIVE</p>
+        <p> Seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings.
+        </p> 
+        <p  style=" border-style:outset;">EDUCATIONAL QULIFICATION</p>
+         <UL>
+           <LI>
+               Pursuing Diploma 2nd year from  <a href="http://govtpolytechnicujjain.co.in/"> Ujjain Polytechnic Collage. Ujjain, MP. </a>
+           </LI>
+           <li>
+               Passed out High School  (10th) from  <a href="http://www.padmajaschooldewas.in/">Padmaja Higher Secondary school, Dewas, MP, in 2020.</a>
+           </li>
+        </UL>
+        <p  style=" border-style:outset;">TECHNICAL SKILLS</p>
+       <ul>
+           <li>C,C++,HTML,CSS. </li>
+                   <LI>Learning JawaScript & React.Js</LI>
+                   <li>Basic knowledge of Computer & Hardware Installation.</li>
+        </ul>
+        <p style=" border-style:outset;">WORK EXPERINCE</p>
+        <P>
+             Fresher
+        </P>
+        <p style=" border-style:outset;">STRENGHT</p>
+        <UL>
+           
+            <li> Honesty.</li>
+            <li>Open-minded.</li>
+            <li>Teamwork.</li>
+            <li> Trustworthiness.</li>
+            
+        </UL>
+        <p style=" border-style:outset;">INTEREST</p>
+        <ul>
+            <li>Programming.</li>
+            <li>Photography. </li>
+            <li>Playing Games(Cricket,Football).</li> 
+           
+        </ul> 
+       
+        <p style=" border-style:outset;">PERSONAL DETAIL</p>
+        <P> Father's Name   &emsp;: Mr. Kailash Barod <br>
+            Date of Birth  &ensp;  &ensp; : 18/06/2003 <br>
+            Address  &emsp;  &ensp;  &ensp; &ensp;      : 213 Laxmi Nagar Ujjain-456010 <br>
+            Status   &ensp;   &emsp; &emsp;  &emsp;: Single 
+
+
+        </P>
+</body>
+</html>
